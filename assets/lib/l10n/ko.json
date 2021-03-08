@@ -1,0 +1,51 @@
+{
+    "hello" : "Hello, I'm Serim",
+    "sub_hello" : "안녕하세요. 전세림입니다.",
+    "title" : "Serim Portfolio",
+    "about" : "About me",
+    "skills" : "Skills",
+    "project" : "Project",
+    "flutter" : "Flutter",
+    "js" : "JavaScript",
+    "kotlin" : "Kotlin",
+    "cpp" : "C++",
+    "c" : "C",
+    "java" : "Java",
+    "and" : "Android",
+    "low" : "Low",
+    "mid" : "Mid",
+    "high" : "High",
+    "project_sub" : "Every project is precious to me. Even if it was a really small project.",
+    "in_pers" : "In Personally",
+    "more" : "More than",
+    "univ" : {
+        "in_univ" : "In University",
+        "acs" : "Access Control System",
+        "iot" : "IoT Clock"
+    },
+    "comp" : {
+        "in_comp" : "In Company",
+        "firm" : "Firmware",
+        "and" : "Android Application",
+        "pet" : "A part of Animal Health Care Platform"
+    },
+    "pers" : {
+        "in_pers" : "In Personally",
+        "this" : "This web"
+    },
+    "about_msg" : "배재대학교 컴퓨터공학과를 나왔고, 진심으로 도움이 되는 IoT를 하고 싶습니다. \n 제 인생을 말하는 노래가 있다면 그건 분명 랄라스윗의 '벨이 울리면'이겠지요.",
+    "link" : {
+        "univ" : {
+            "acs" : "https://www.notion.so/Access-Control-System-Access-Sentinel-ffb1ea3ce1f74f98abed73551bf0cb44",
+            "iot" : "https://www.notion.so/IoT-Clock-NCEC-6056a16fdaeb45e4b00ba32671a376f2"
+        },
+        "comp" : {
+            "firm" : "https://www.notion.so/Microbot-Series-e567f39ff92c467daf2cea802bf29b9c",
+            "and" : "https://www.notion.so/Airfob-Pass-Android-f162ec31558a4cbf82e09a4ebcdb0309",
+            "pet" : "https://www.notion.so/X-ad3b84b364844aca91792d47ea35f128"
+        },
+        "pers" : {
+            "this" : ""
+        }
+    }
+}
